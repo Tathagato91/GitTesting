@@ -1,0 +1,2 @@
+This is a plain document for Git testing. Initial Code commit: master branch.
+Creating this code from user "somnand".
